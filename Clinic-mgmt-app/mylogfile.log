@@ -1,0 +1,74 @@
+2022-02-22 16:54:14.294 INFO  Searching by appointment Date 
+2022-02-22 16:54:15.612 INFO  Searching by appointment Date 
+2022-02-22 16:56:53.472 INFO  Searching by appointment Date 
+2022-02-22 16:56:54.948 INFO  Searching by appointment Date 
+2022-02-22 17:03:42.011 INFO  Searching by appointment Date 
+2022-02-22 17:03:43.188 INFO  Searching by appointment Date 
+2022-02-22 17:05:55.241 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:05:55.270 INFO  Searching by appointment Date 
+2022-02-22 17:05:56.307 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:05:56.313 INFO  Searching by appointment Date 
+2022-02-22 17:05:56.482 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:05:56.488 INFO  Searching by appointment Date 
+2022-02-22 17:05:56.697 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:05:56.702 INFO  Searching by appointment Date 
+2022-02-22 17:08:02.995 INFO  Searching by appointment Date 2022-02-24 
+2022-02-22 17:08:03.020 INFO  Searching by appointment Date 
+2022-02-22 17:08:03.020 INFO  [] 
+2022-02-22 17:08:04.425 INFO  Searching by appointment Date 2022-02-24 
+2022-02-22 17:08:04.431 INFO  Searching by appointment Date 
+2022-02-22 17:08:04.431 INFO  [] 
+2022-02-22 17:10:09.478 INFO  Searching by appointment Date 2022-02-25 
+2022-02-22 17:10:09.502 INFO  Searching by appointment Date 
+2022-02-22 17:10:09.502 INFO  [] 
+2022-02-22 17:10:44.981 INFO  Searching by appointment Date 2022-02-26 
+2022-02-22 17:10:44.987 INFO  Searching by appointment Date 
+2022-02-22 17:10:44.987 INFO  [] 
+2022-02-22 17:13:58.188 INFO  Searching by appointment Date 2022-02-14 
+2022-02-22 17:13:58.234 INFO  Searching by appointment Date 
+2022-02-22 17:13:58.234 INFO  [{"_id":"6214cc63636edd7b39e9117f","appointmentDate":"2022-02-14","timeslot":"5:00:00 PM","bookingDate":"10/02/2022","doctorNumber":1,"patientNumber":1}] 
+2022-02-22 17:27:03.685 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:27:03.707 INFO  Searching by appointment Date 
+2022-02-22 17:27:03.707 INFO  [] 
+2022-02-22 17:27:05.247 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:27:05.253 INFO  Searching by appointment Date 
+2022-02-22 17:27:05.253 INFO  [] 
+2022-02-22 17:27:10.847 INFO  Searching by appointment Date 2022-02-14 
+2022-02-22 17:27:10.852 INFO  Searching by appointment Date 
+2022-02-22 17:27:10.852 INFO  [{"_id":"6214cc63636edd7b39e9117f","appointmentDate":"2022-02-14","timeslot":"5:00:00 PM","bookingDate":"10/02/2022","doctorNumber":1,"patientNumber":1}] 
+2022-02-22 17:27:47.292 INFO  Searching by appointment Date 2022-02-14 
+2022-02-22 17:27:47.298 INFO  Searching by appointment Date 
+2022-02-22 17:27:47.298 INFO  [{"_id":"6214cc63636edd7b39e9117f","appointmentDate":"2022-02-14","timeslot":"5:00:00 PM","bookingDate":"10/02/2022","doctorNumber":1,"patientNumber":1}] 
+2022-02-22 17:31:32.552 INFO  Searching by appointment Date 2022-02-14 
+2022-02-22 17:31:32.558 INFO  Searching by appointment Date 
+2022-02-22 17:31:32.558 INFO  [{"_id":"6214cc63636edd7b39e9117f","appointmentDate":"2022-02-14","timeslot":"5:00:00 PM","bookingDate":"10/02/2022","doctorNumber":1,"patientNumber":1}] 
+2022-02-22 17:35:38.687 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:35:38.736 INFO  Searching by appointment Date 
+2022-02-22 17:35:38.736 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-22 17:35:49.685 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 17:35:49.707 INFO  Searching by appointment Date 
+2022-02-22 17:35:49.707 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-22 19:14:26.498 INFO  Searching by appointment Date 2022-02-23 
+2022-02-22 19:14:26.544 INFO  Searching by appointment Date 
+2022-02-22 19:14:26.544 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-23 14:17:37.918 INFO  Searching by appointment Date 2022-02-23 
+2022-02-23 14:17:38.171 INFO  Searching by appointment Date 
+2022-02-23 14:17:38.171 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-23 14:17:38.559 INFO  Searching by appointment Date 2022-02-23 
+2022-02-23 14:17:38.564 INFO  Searching by appointment Date 
+2022-02-23 14:17:38.564 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-25 09:49:01.696 INFO  Searching by appointment Date 2022-02-24 
+2022-02-25 09:49:02.250 INFO  Searching by appointment Date 
+2022-02-25 09:49:02.250 INFO  [{"_id":"6214d17f636edd7b39e91189","appointmentDate":"2022-02-24","timeslot":"6:00:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":3}] 
+2022-02-25 11:12:27.948 INFO  Searching by appointment Date 2022-02-24 
+2022-02-25 11:12:27.961 INFO  Searching by appointment Date 
+2022-02-25 11:12:27.961 INFO  [{"_id":"6214d17f636edd7b39e91189","appointmentDate":"2022-02-24","timeslot":"6:00:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":3}] 
+2022-02-25 11:13:06.246 INFO  Searching by appointment Date 2022-02-23 
+2022-02-25 11:13:06.251 INFO  Searching by appointment Date 
+2022-02-25 11:13:06.251 INFO  [{"_id":"6214d146636edd7b39e91184","appointmentDate":"2022-02-23","timeslot":"5:30:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":2}] 
+2022-02-25 11:13:53.951 INFO  Searching by appointment Date 2022-02-24 
+2022-02-25 11:13:53.959 INFO  Searching by appointment Date 
+2022-02-25 11:13:53.959 INFO  [{"_id":"6214d17f636edd7b39e91189","appointmentDate":"2022-02-24","timeslot":"6:00:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":3}] 
+2022-02-25 11:20:34.536 INFO  Searching by appointment Date 2022-02-24 
+2022-02-25 11:20:34.540 INFO  Searching by appointment Date 
+2022-02-25 11:20:34.540 INFO  [{"_id":"6214d17f636edd7b39e91189","appointmentDate":"2022-02-24","timeslot":"6:00:00 PM","bookingDate":"11/02/2022","doctorNumber":1,"patientNumber":3}] 
